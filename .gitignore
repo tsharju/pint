@@ -1,5 +1,6 @@
 bin/
 lib/
-pint-egg.info/
+include/
+pint.egg-info/
 *.pyc
 .Python
